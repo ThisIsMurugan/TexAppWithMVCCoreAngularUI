@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TexUI"
+    }
+  },
+  "defaultProject": "TexUI",
+  "cli": {
+    "analytics": false
+  }
 }
